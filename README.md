@@ -1,16 +1,17 @@
-## Hi there 👋
+## boa vindas ao meu perfil🤯
 
-<!--
-**Gustavomotta46/Gustavomotta46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Gustavo Mota
 
-Here are some ideas to get you started:
+estou estudando no alura
+sou estudante do Antônio Florentino
+aluno do 1°C
+aprendendo e vivendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### entrar em contato comigo📪
+
+00001126815962sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/-cQWzpkkqT0AAAAd/grau-moto.gif)
+
+
